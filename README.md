@@ -11,7 +11,7 @@
         <nav>
             <div class="nav">
                 <div>  
-                <img class="image" src="./my logo.jpg" alt="My logo" width="100px" height="50px"> 
+                <img class="image" src="./my logo.jpg" alt="mylogo" width="100px" height="50px"> 
                 </div>
 
                 <div>
@@ -20,7 +20,7 @@
                   
                 
                 
-                <li><a href="./OG.html">Home</a></li>   
+                <li><a href="./home.html">Home</a></li>   
                 <li><a href="./about.html">About</a></li>
                 <li><a href="./products.html">Products</a></li>
                 
@@ -61,7 +61,7 @@
            <h5>Follow us</h5>
          
            
-           <img class="image" src="./my logo.jpg" alt="My logo" width="100px" height="50px">
+           <img class="image" src="./my logo.jpg" alt="mylogo" width="100px" height="50px">
            <p>copyright: 2025 OG. All rights reserved</p>
         </div>
             
