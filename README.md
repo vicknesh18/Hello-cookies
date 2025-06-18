@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>e-commerce</title>
-        <link rel="stylesheet" href="./og.css">
+        <link rel="stylesheet" href="./style.css">
     </head>
     <h1>OG COOKIes</h1>
     <body>
@@ -22,7 +22,7 @@
                 
                 <li><a href="./home.html">Home</a></li>   
                 <li><a href="./about.html">About</a></li>
-                <li><a href="./products.html">Products</a></li>
+                <li><a href="./product.html">Products</a></li>
                 
                 <li><a href="./contact.html">Contact</a></li>
                  </ul>
