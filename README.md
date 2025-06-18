@@ -44,7 +44,7 @@
             
             <div>
                 <img class="image" src="./pile-delicious-chocolate-chip-cookies-600nw-1147305941.webp" width="500px" height="400px" alt="cookies">
-        </div><br>
+        </div>
  
 
 
@@ -64,6 +64,6 @@
            <img class="image" src="./my logo.jpg" alt="mylogo" width="100px" height="50px">
            <p>copyright: 2025 OG. All rights reserved</p>
         </div>
-            
+        </div>  
     </body>
 </html>
