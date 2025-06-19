@@ -51,17 +51,12 @@
             <div>
                 <img class="image" src="./pile-delicious-chocolate-chip-cookies-600nw-1147305941.webp" width="500px" height="400px" alt="cookies">
         </div>
+        </div>
  
 
 
         <div class="footer">
             <h5>OG Cookies</h5>
-            <ul>
-          <li><a href="./home.html"></a>Home</li> 
-          <li><a href="./about.html"></a>About</li> 
-          <li><a href="./contact.html"></a>Contact</li>
-          <li><a href="./products.html">Products</a></li>
-            </ul>
             <p>E-mail: <a href=" mailto:ogcookies123@gmail.com">ogcookies123@gmail.com</a>  </p>
             <p>Phone: <a href="tel:7845857807">7845857807</a>  </p>
            <h5>Follow us</h5>
