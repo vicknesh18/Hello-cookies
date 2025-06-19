@@ -69,7 +69,7 @@
            
            <img class="image" src="./ogcookieslogo.jpg" alt="ogcookieslogo" width="100px" height="50px">
            <p>copyright: 2025 OG. All rights reserved</p>
-        </div>
+       
         </div>  
     </body>
 </html>
