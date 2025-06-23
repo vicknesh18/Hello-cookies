@@ -8,6 +8,8 @@
         <meta name="title" content="og cookies" > 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta name="google-site-verification" content="11vVyncmE18J1ubggU6-1SWK9dAUR9nDdL9j9NamvI" />
+     <link rel="canonical" href="https://github.com/vicknesh18/Hello-cookies/edit/main/README.md" >
+
         <link rel="stylesheet" href="./style.css">
     </head>
     <h1>OG COOKIes</h1>
